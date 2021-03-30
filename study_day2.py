@@ -62,22 +62,20 @@
 # print(a)
 # print(b)
 # print(c)
-#
+# #
 # a = input('Please enter A: ')
 # b = input('Please enter B: ')
-#
+# c = input('Please enter C: ')
 # a, b, c = input('Please enter sides A, B and C. Use space separate: ').split()  # User input of 3 sides
-#  # Half perimeter
+ # Half perimeter
 # half_perimeter = (int(a) +int(b) + int(c)) / 2
 # print(half_perimeter)
 #  # Formula to count triangle area
 # triangle_area = (half_perimeter * (half_perimeter - int(a)) * (half_perimeter-int(b)) * (half_perimeter - int(c)))
 # print(triangle_area)
-#
+
 # string_sample = "that'/'s"
 # print(string_sample)
-#
+# #
 # string_sample2 = 'Hello \tworld'
 # print(string_sample2)
-#
-# print("Hello world")
